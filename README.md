@@ -4,7 +4,7 @@
 1. Clone this repo.
 
 ```
-$ git clone https://github.com/destinygg/chat.git
+$ git clone https://github.com/MICOTYN-PATCH/mdc-chat.git
 ```
 
 2. Navigate into the project folder.
