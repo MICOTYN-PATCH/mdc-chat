@@ -1,21 +1,5 @@
 
-# Important Notice
-As of 6/28/2022 this repository is no longer being publicly maintained. Code in it's current state is left for historic preservation, but will no longer be receiving updates, security patches, or support.
-
-Licensing inquiries can be submitted via email to contact@destiny.gg
-
-The Destiny Chat Back-End
-===========
-
-The chat back-end for destiny.gg, written in Go, based on Golem (http://github.com/trevex/golem) 
-
-Licensed under the Apache License, Version 2.0 
-
-http://www.apache.org/licenses/LICENSE-2.0.html
-
-This is my (sztanpet's) first not-so-tiny Go project, so if there is anything that could be improved, please do tell.
-
-### How to Build & Run
+## How to Build & Run
 
 1. Clone this repo.
 
