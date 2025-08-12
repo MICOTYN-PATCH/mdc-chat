@@ -37,4 +37,6 @@ $ go build -o chat
 $ ./chat
 ```
 
+config -
+
 If a `settings.cfg` file doesn't exist, one will be created on first run. Modify it to your liking and run the binary again when done.
